@@ -34,6 +34,7 @@ public class FizzBuzz {
         }
     }
 
+
     /**
      * Algorithm that Prints Fizz, Buzz, or FizzBuzz depending on the number
      * @param number The number inputted by the user in the Main Method
