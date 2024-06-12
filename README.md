@@ -4,7 +4,7 @@ This repository of __FizzBuzz__ is demonstrated using Java. It is the most commo
 - if statements
 - loops
 - variables
-- poroblem solving skills
+- problem solving skills
 
 This code provides a simple implementation of a FizzBuzz application similar to the ones used for programming interviews.
 
