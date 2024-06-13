@@ -23,7 +23,7 @@ public class FizzBuzz {
         validateInput(number);
         // Call the fizzBuzz method
         fizzBuzz(number);
-        
+
         // Close the scanner
         scanner.close();
     }
